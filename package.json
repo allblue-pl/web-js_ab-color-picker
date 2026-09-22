@@ -1,0 +1,9 @@
+{
+  "name": "ab-color-picker",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "coloris": "^0.1.0"
+  }
+}
